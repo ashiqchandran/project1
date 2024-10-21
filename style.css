@@ -1,0 +1,46 @@
+body{
+    
+}
+
+.navbar{
+ display: flex;
+ background-color: #3385ff;
+}
+.contact{
+    width: 900px;
+    
+}
+li{
+  display: inline;
+}
+
+.social{
+    float: right;
+}
+img{
+    border-radius: 10px;
+    
+    margin-top: 10px;
+}
+.bottomnav{
+    display: flex;
+    text-align: right;
+    
+    background-color:  #ccebff;
+}
+.intro{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.container{
+    margin-left: 180px;
+}
+.space{
+    margin-left: 70px;
+}
+
+
+
+
+
